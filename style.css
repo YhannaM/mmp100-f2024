@@ -1,0 +1,22 @@
+body{background-color: #5a5c5e}
+h1{width:500px;
+    text-align: center;
+    margin:0 auto;
+    background-color: gray
+    color:white;
+    padding: lem;
+    }
+h2{color: rgb(8, 7, 7);
+    width:500px;
+    margin:0 auto;
+    text-align: center;}
+img{display:block;
+    margin: 0 auto;}
+p,ol,li,a{
+    background-color:#5a5c5e;
+    text-align: center;
+    width: 500px;
+    margin:0 auto;
+    color:white;}
+a{text-decoration:none;}
+a:hover{color:white}
